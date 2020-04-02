@@ -7,7 +7,7 @@ js-401n16 lab-06:  working with a very simple server’s API, documenting it and
 
 ### Links and Resources
 
-- [submission PR]()
+- [submission PR](https://github.com/madisonstehle/http-and-rest/pull/2)
 
 
 ### Documentation
