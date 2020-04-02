@@ -18,6 +18,7 @@ JSDoc is not running. See error message below:
 
 ### Setup
 <!-- How to initialize/run your application (where applicable) -->
+- Run Server: `json-server --watch ./data/db.json`
 
 
 #### Tests
@@ -30,3 +31,5 @@ JSDoc is not running. See error message below:
 Link to an image of the UML for your application and response to events
 
 ## Credits
+- [Milk and Vine](https://www.amazon.com/Milk-Vine-Inspirational-Quotes-Classic-ebook/dp/B076NWPQYZ)
+- [Death Wish Coffee](https://www.deathwishcoffee.com/products/death-wish-coffee)
