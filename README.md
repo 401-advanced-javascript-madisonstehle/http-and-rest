@@ -28,7 +28,7 @@ js-401n16 lab-06:  working with a very simple server’s API, documenting it and
 
 #### Validation
 
-![JSON Server Validation](./assets/serverValidator.PNG)
+![JSON Server Validation](assets/serverValidator.PNG)
 
 ## Credits
 - [Milk and Vine](https://www.amazon.com/Milk-Vine-Inspirational-Quotes-Classic-ebook/dp/B076NWPQYZ)
