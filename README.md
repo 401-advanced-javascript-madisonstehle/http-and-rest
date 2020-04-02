@@ -8,12 +8,12 @@ js-401n16 lab-06:  working with a very simple server’s API, documenting it and
 ### Links and Resources
 
 - [submission PR]()
-- [ci/cd]() (GitHub Actions)
 
 
 ### Documentation
-JSDoc is not running. See error message below:
-![JSDoc Error](error.PNG)
+
+- [swagger url](https://app.swaggerhub.com/apis/madisonstehle/lab06-categories_and_products/0.1#/)
+- [swagger.json](./docs/swagger.json)
 
 
 ### Setup
@@ -26,9 +26,9 @@ JSDoc is not running. See error message below:
 - Unit Test: `npm test`
 - Lint Test: `npm run lint`
 
-#### UML
+#### Validation
 
-Link to an image of the UML for your application and response to events
+![JSON Server Validation](./assets/serverValidator.PNG)
 
 ## Credits
 - [Milk and Vine](https://www.amazon.com/Milk-Vine-Inspirational-Quotes-Classic-ebook/dp/B076NWPQYZ)
